@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/silmarabasso/repos/inferencia-mlflow-databricks/mlruns/694754763658029394/787c023629774e00adc9a06fc3614f75/artifacts
+end_time: 1742861030145
+entry_point_name: ''
+experiment_id: '694754763658029394'
+lifecycle_stage: active
+run_id: 787c023629774e00adc9a06fc3614f75
+run_name: Random Forest Vinhos
+run_uuid: 787c023629774e00adc9a06fc3614f75
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742861030034
+status: 3
+tags: []
+user_id: silmarabasso

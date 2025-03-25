@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/silmarabasso/repos/inferencia-mlflow-databricks/mlruns/694754763658029394/180ffc9d0f8d4e28a953543a2b094906/artifacts
+end_time: 1742859473958
+entry_point_name: ''
+experiment_id: '694754763658029394'
+lifecycle_stage: active
+run_id: 180ffc9d0f8d4e28a953543a2b094906
+run_name: Logistic Regression VWine
+run_uuid: 180ffc9d0f8d4e28a953543a2b094906
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742859471402
+status: 3
+tags: []
+user_id: silmarabasso
